@@ -24,7 +24,7 @@
   <h2>About Me:</h2>
   <p style="font-size: 24px;">Junior software engineer focused on building scalable applications that deliver real and measurable business impact</p>
   <ul>
-    <li>🛠️ currently developing dashboards using Tableau and Excel to track business performance updates.</li>
+    <li>🛠️ Currently developing dashboards using Tableau and Excel to track business performance updates.</li>
     <li>🧠 Most days, focus on data processing and dashboard creation</li>
     <li>🧭 Currently exploring AI-based data processing to improve work efficiency</li>
     <li>✨ Fun fact: Focusing on career goals as a senior Data Analyst and Business Intelligence with a degree in physics</li>
