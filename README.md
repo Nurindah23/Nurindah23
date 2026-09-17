@@ -16,15 +16,15 @@
 <!--- giphy -->
 </br>
 <div align="center">
-  <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHFzamFmOGIwOWRlcWZ5bWFhN240Y3hudTBmY3NqMGZtZmJ6OXRkayZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/OuQmhmAAdJFLi/giphy.gif" width=250 alt="giphy">
+  <img align="center" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZTg4NXE0NmczZHdyeGRzYzhnNGFtZjNxcDUzZWw0N20yMnp3NTU0cSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/LPFNd1AJBoYcVUExmE/giphy.gif" width=400 alt="giphy">
 </div>
 
 <!--- about me -->
 <div>
   <h2>About Me:</h2>
-  <p style="font-size: 24px;">Junior software engineer focused on building scalable applications that deliver real and measurable business impact</p>
+  <p style="font-size: 24px;">Junior Data Analyst focused on building dashboard and measurable business impact</p>
   <ul>
-    <li>🛠️ Currently developing dashboards using Tableau and Excel to track business performance updates.</li>
+    <li>🛠️ Currently developing dashboards using Tableau and Excel to track business performance updates</li>
     <li>🧠 Most days, focus on data processing and dashboard creation</li>
     <li>🧭 Currently exploring AI-based data processing to improve work efficiency</li>
     <li>✨ Fun fact: Focusing on career goals as a senior Data Analyst and Business Intelligence with a degree in physics</li>
@@ -35,19 +35,11 @@
 <div>
   <h2>Tech Stack:</h2>
   <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,react,express,nodejs,py,java,mysql,neovim,mongodb,linux,git,github" />
-  </a>
+    <img src="https://skill-icons-v2.vercel.app/api/icons?i=excel,powerpoint,word,pbi,tableau,looker,mysql,python" />
+  </p>
 </p>
 </div>
 
-<!--- tech stack -->
-<div>
-  <h2>Streak:</h2>
-  <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ten-mauve.vercel.app?user=Nurindah23&theme=nord" alt="GitHub Streak" /></a>
-  </p>
-</div>
 
 <!--
 **Nurindah23/Nurindah23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
